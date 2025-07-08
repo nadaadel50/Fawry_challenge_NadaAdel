@@ -28,6 +28,7 @@ It demonstrates core OOP principles in Java by simulating an online store with r
 🗃️ Folder Structure
 
 /src
+ 
  ├── model/
 
  │   ├── Product.java         # Defines product properties and expiry logic
@@ -43,6 +44,7 @@ It demonstrates core OOP principles in Java by simulating an online store with r
  │   ├── CheckoutService.java # Handles all validation, payment, shipping
  
  │   ├── ShippingService.java # Handles shipping logic (prints shipment notice)
+ 
  
  ├── Main.java                # Demo scenario with sample products and checkout
 
