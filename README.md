@@ -16,23 +16,36 @@ It demonstrates core OOP principles in Java by simulating an online store with r
 
 🧩 Corner Cases Handled
 ✔️ Error if a product is out of stock.
+
 ✔️ Error if a product has expired.
+
 ✔️ Error if the cart is empty.
+
 ✔️ Error if the customer’s balance is insufficient.
+
 ✔️ Automatically updates product stock after successful checkout.
 
 🗃️ Folder Structure
 
 /src
  ├── model/
+
  │   ├── Product.java         # Defines product properties and expiry logic
+ 
  │   ├── Cart.java            # Holds items customer wants to buy
+ 
  │   ├── CartItem.java        # Links Product + quantity in cart
+ 
  │   ├── Customer.java        # Holds customer balance and name
+ 
  ├── service/
+ 
  │   ├── CheckoutService.java # Handles all validation, payment, shipping
+ 
  │   ├── ShippingService.java # Handles shipping logic (prints shipment notice)
+ 
  ├── Main.java                # Demo scenario with sample products and checkout
+
 
 📄 Example Scenario
 In Main.java:
