@@ -5,13 +5,13 @@
 This project is a simple object-oriented e-commerce system developed for the Fawry Full Stack Development Internship Challenge.
 It demonstrates core OOP principles in Java by simulating an online store with realistic product handling, cart operations, checkout logic, and shipping management — all designed to be extensible and testable for future upgrades like a real database or web layer.
 
-Define products (with perishable, shippable, and weight properties)
+* Define products (with perishable, shippable, and weight properties)
 
-Add products to a cart
+* Add products to a cart
 
-Perform checkout with subtotal, shipping calculation, and balance checks
+* Perform checkout with subtotal, shipping calculation, and balance checks
 
-Send shippable items to a mock ShippingService interface
+* Send shippable items to a mock ShippingService interface
 
 🛒 Key Features
 Product Management
