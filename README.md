@@ -13,41 +13,6 @@ It demonstrates core OOP principles in Java by simulating an online store with r
 
 * Send shippable items to a mock ShippingService interface
 
-🛒 Key Features
-Product Management
-
-Each product has: id, name, price, quantity, perishable flag, expiryDate (if perishable), shippable flag, and weight (if shippable).
-
-Cart
-
-Customers can add products to the cart with a specific quantity, limited by available stock.
-
-Checkout
-
-Calculates:
-
-Subtotal
-
-Shipping fees for shippable items
-
-Paid amount (subtotal + shipping)
-
-Customer balance after payment
-
-Validates:
-
-Insufficient stock
-
-Expired perishable products
-
-Empty cart
-
-Insufficient balance
-
-Shipping Service
-
-Collects all shippable items implementing a Shippable interface and prints shipping details.
-
 
 🧩 Corner Cases Handled
 ✔️ Error if a product is out of stock.
