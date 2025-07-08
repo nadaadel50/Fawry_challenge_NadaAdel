@@ -34,7 +34,6 @@ It demonstrates core OOP principles in Java by simulating an online store with r
  │   ├── ShippingService.java # Handles shipping logic (prints shipment notice)
  ├── Main.java                # Demo scenario with sample products and checkout
 
-
 📄 Example Scenario
 In Main.java:
 ![image](https://github.com/user-attachments/assets/89eed8db-7cf2-42b3-9175-578bb0528646)
