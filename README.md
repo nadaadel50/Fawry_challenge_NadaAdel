@@ -1,5 +1,7 @@
 📦 E-commerce System — Internship Challenge
+
 ✅ Project Overview
+
 This project is a simple object-oriented e-commerce system developed for the Fawry Full Stack Development Internship Challenge.
 It demonstrates core OOP principles in Java by simulating an online store with realistic product handling, cart operations, checkout logic, and shipping management — all designed to be extensible and testable for future upgrades like a real database or web layer.
 
