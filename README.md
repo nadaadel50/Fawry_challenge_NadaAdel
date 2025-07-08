@@ -25,6 +25,8 @@ It demonstrates core OOP principles in Java by simulating an online store with r
 
 ✔️ Automatically updates product stock after successful checkout.
 
+
+
 🗃️ Folder Structure
 
 /src
@@ -50,8 +52,10 @@ It demonstrates core OOP principles in Java by simulating an online store with r
 
 
 📄 Example Scenario
+
 In Main.java:
 ![image](https://github.com/user-attachments/assets/89eed8db-7cf2-42b3-9175-578bb0528646)
+
 
 Output:
 ![image](https://github.com/user-attachments/assets/eb4eccf0-533b-4df2-a17c-dabb4b28ccb6)
